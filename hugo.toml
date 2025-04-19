@@ -1,0 +1,53 @@
+baseURL = "http://swiftbynight.com/"
+languageCode = "en-us"
+title = "Swift by Night"
+theme = "PaperMod"
+sectionPagesMenu = "main"
+
+[params]
+  author = "Shivam Chhuneja"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+  [params.label]
+    icon = "images/logo.png"
+    iconHeight = 50
+    text = " "
+
+  [params.homeInfoParams]
+    Title = "Swift by Night"
+    Content = "Started learning Swift late? So did I. Swift by Night shares stories, projects, and behind-the-scenes thoughts from someone who’s walking the iOS Developer path — building in public, reflecting in Markdown, and figuring things out, one commit at a time."
+      [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/shivamchhuneja"
+    [[params.socialIcons]]
+    name = "instagram"
+    url = "https://instagram.com/shivamchhuneja"
+    [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/shivamchhuneja"
+
+[params.social]
+  github = "https://github.com/shivamchhuneja"
+  instagram = "https://instagram.com/shivamchhuneja"
+  linkedin = "https://www.linkedin.com/in/shivamchhuneja"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
