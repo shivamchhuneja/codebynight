@@ -57,5 +57,17 @@ sectionPagesMenu = "main"
     url = "/about/"
     weight = 2
 
+  [[menu.main]]
+    identifier = "upcoming"
+    name = "Upcoming"
+    url = "/upcoming/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 4
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]

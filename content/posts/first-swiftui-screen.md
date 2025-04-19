@@ -4,6 +4,9 @@ date: 2025-04-18
 tags: ["swiftui", "layouts", "learning"]
 categories: ["iOS Development"]
 draft: false
+ShowToc: true
+TocOpen: true
+ShowPostNavLinks: true
 ---
 
 Tonight I built my first SwiftUI screen — a basic login page with text fields and a button.
