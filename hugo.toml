@@ -21,7 +21,7 @@ sectionPagesMenu = "main"
 
   [params.homeInfoParams]
     Title = "Swift by Night"
-    Content = "Started learning Swift late? So did I. Swift by Night shares stories, projects, and behind-the-scenes thoughts from someone who’s walking the iOS Developer path — building in public, reflecting in Markdown, and figuring things out, one commit at a time."
+    Content = "Started learning iOS Development late in life? So did I. Swift by Night shares stories, projects, and behind-the-scenes thoughts from someone who’s walking the Swift Developer path — building in public, reflecting in Markdown, and figuring things out."
       [[params.socialIcons]]
     name = "github"
     url = "https://github.com/shivamchhuneja"
