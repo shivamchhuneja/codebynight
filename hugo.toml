@@ -32,6 +32,13 @@ sectionPagesMenu = "main"
     name = "linkedin"
     url = "https://www.linkedin.com/in/shivamchhuneja"
 
+[params.assets]
+  favicon = "/images/favicon.ico"
+  favicon16x16 = "/images/favicon-96x96.png"
+  favicon32x32 = "/images/favicon-96x96.png"
+  apple_touch_icon = "/images/apple-touch-icon.png"
+  safari_pinned_tab = "/images/favicon.svg"
+
 [params.social]
   github = "https://github.com/shivamchhuneja"
   instagram = "https://instagram.com/shivamchhuneja"
