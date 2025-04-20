@@ -4,6 +4,9 @@ date: 2025-04-19
 tags: ["getting started", "journal"]
 categories: ["Personal"]
 draft: false
+ShowToc: true
+TocOpen: true
+ShowPostNavLinks: true
 ---
 
 Welcome to **Swift by Night** — a nightly journal of my journey learning iOS development.
