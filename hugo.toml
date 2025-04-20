@@ -5,8 +5,11 @@ theme = "PaperMod"
 sectionPagesMenu = "main"
 
 [params]
+  env = "production"
   author = "Shivam Chhuneja"
   defaultTheme = "auto"
+  disableTwitterCards = true
+  googleAnalytics = "G-G64RCPRHRE"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
