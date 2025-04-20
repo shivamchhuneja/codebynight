@@ -1,6 +1,6 @@
 baseURL = "http://swiftbynight.com/"
 languageCode = "en-us"
-title = "Swift by Night"
+title = "A 30+ Guy Learning iOS Development in Public | Swift by Night Journey"
 theme = "PaperMod"
 sectionPagesMenu = "main"
 
@@ -8,7 +8,6 @@ sectionPagesMenu = "main"
   env = "production"
   author = "Shivam Chhuneja"
   defaultTheme = "auto"
-  disableTwitterCards = true
   googleAnalytics = "G-G64RCPRHRE"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -23,7 +22,7 @@ sectionPagesMenu = "main"
     text = " "
 
   [params.homeInfoParams]
-    Title = "Swift by Night"
+    Title = "A 30+ Guy Learning iOS Development in Public | Swift by Night Journey"
     Content = "Started learning iOS Development late in life? So did I. Swift by Night shares stories, projects, and behind-the-scenes thoughts from someone who’s walking the Swift Developer path — building in public, reflecting in Markdown, and figuring things out."
       [[params.socialIcons]]
     name = "github"
