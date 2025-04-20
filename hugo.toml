@@ -1,6 +1,6 @@
 baseURL = "http://swiftbynight.com/"
 languageCode = "en-us"
-title = "A 30+ Guy Learning iOS Development in Public | Swift by Night Journey"
+title = "Swift by Night iOS Development Journey Log"
 theme = "PaperMod"
 sectionPagesMenu = "main"
 
@@ -9,6 +9,7 @@ sectionPagesMenu = "main"
   author = "Shivam Chhuneja"
   defaultTheme = "auto"
   googleAnalytics = "G-G64RCPRHRE"
+  images = ["/images/preview.png"]
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
