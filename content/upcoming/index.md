@@ -18,8 +18,8 @@ _Items that are "checked" are published :), and linked._
 2. How I Fit iOS Learning into My 9 to 5 Life
 3. Things I Thought I Needed to Know Before Starting (But Didn’t)
 4. From 'WTF is Xcode' to 'I Pushed to GitHub' — My First 3 Weeks
-5. Build Before You Believe: Shipping My First Tiny SwiftUI App
-6. How I Celebrate Tiny Wins While Learning Something Big
+5. Shipping My First SwiftUI App
+6. How I Celebrate Small Wins While Learning Something Big
 7. Why I Started a Swift & iOS Development Blog in 2025
 
 ## 🧠 Breaking the Tutorial Trap
@@ -34,7 +34,7 @@ _Items that are "checked" are published :), and linked._
 12. How I Chose My First iOS Project (And You Can Too)
 13. What I Built Before Understanding Swift Properly (And Why It Worked)
 14. The 3-Screen App Challenge: Build, Don’t Binge
-15. My 3 Favorite Beginner-Friendly App Ideas (That Aren’t To-Do Lists)
+15. My 3 Favorite Beginner-Friendly iOS App Ideas (That Aren’t To-Do Lists)
 16. Why I Made an App That Only I Would Ever Use
 
 ## 👴 Late iOS Development Starters
