@@ -14,7 +14,7 @@ _Items that are "checked" are published :), and linked._
 
 ## 🚀 Getting Started & Mindset
 
-1. Why I Chose Swift After 30
+1. [Why I Chose to Learn Swift After The Age of 30](/posts/why-i-chose-to-learn-swift-after-age-of-30) ✅
 2. How I Fit iOS Learning into My 9 to 5 Life
 3. Things I Thought I Needed to Know Before Starting (But Didn’t)
 4. From 'WTF is Xcode' to 'I Pushed to GitHub' — My First 3 Weeks
