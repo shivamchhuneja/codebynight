@@ -15,7 +15,7 @@ sectionPagesMenu = "main"
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  description = "Swift by Night is a Swift and iOS learning journal — building and learning iOS development in public, that's that."
+  description = "Swift by Night is a Swift and iOS development learning journal - building and learning iOS development in public."
 
   [params.label]
     icon = "images/logo.png"

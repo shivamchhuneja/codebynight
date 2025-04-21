@@ -26,7 +26,7 @@ _Items that are "checked" are published :), and linked._
 
 8. Why You Feel Smart in Tutorials But Stuck in Real Code
 9. What to Do When the Tutorial Ends and You Still Feel Lost
-10. My 3-Phase Escape Plan from Tutorial Purgatory
+10. [My 3-Phase Escape Plan from iOS Development Tutorial Hell](/posts/3-phase-plan-to-escape-ios-development-tutorial-hell) ✅
 11. How to Choose Your First Real Project (Without Overthinking It)
 
 ## 🛠️ Project-Based Learning
