@@ -19,8 +19,8 @@ _Items that are "checked" are published :), and linked._
 5. How I Stay Consistent While Learning to Code at Night
 6. Things I Thought I Needed to Know Before Learning Backend (But Didn’t)
 7. My Learning Stack: Books, Videos, and Projects
-8. Shipping My First CLI App in Go
-9. How I Track My Backend Dev Progress with Daily Logs
+8. Shipping My First CLI App in Golang
+9. How I Track My Backend Dev Progress with Daily Logs & Github
 
 ## 🧠 Getting Comfortable with Go
 
@@ -32,7 +32,7 @@ _Items that are "checked" are published :), and linked._
 
 ## 🛠️ Project-Based Learning
 
-15. Why I'm Building CLI Apps to Learn Go
+15. Why I'm Building CLI Apps to Learn Golang
 16. My First Go CLI Tool
 17. Rewriting a Python Script in Go (And What I Learned)
 18. How I Plan to Build a Custom Compiler with Go

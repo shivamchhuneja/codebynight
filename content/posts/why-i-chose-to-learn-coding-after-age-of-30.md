@@ -7,6 +7,7 @@ tags:
     "Learning To Code",
     "Beginner Developer",
     "Self Taught Programmer",
+    "Learning Golang",
   ]
 categories: ["Coding Journal", "Developer Mindset"]
 description: "A reflection on deciding to learn programming properly at 30+ — and why creation, not code, is what brings me back."

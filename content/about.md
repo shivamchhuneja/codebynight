@@ -6,7 +6,7 @@ draft: false
 ShowShareButtons: false
 ---
 
-Welcome to Swift by Night 👋
+Welcome to Code by Night 👋
 
 I’m Shivam — I'm a marketing data scientist learning to code one late-night build at a time.
 
