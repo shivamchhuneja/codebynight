@@ -4,14 +4,13 @@ date: 2025-04-19
 layout: "single"
 draft: false
 ShowShareButtons: false
-
 ---
 
 Welcome to Swift by Night 👋
 
-I’m Shivam — I'm a marketing data scientist learning iOS development one late-night build at a time.
+I’m Shivam — I'm a marketing data scientist learning to code one late-night build at a time.
 
-This blog is my learning journal as I dive deep into Swift, SwiftUI, CoreML, animations, and building real apps from scratch — no CS degree, no fancy bootcamp, just an itch to build & figure things out.
+This blog is my learning journal as I dive deep into programming & buiding things from scratch — no CS degree, no fancy bootcamp, just an itch to build & figure things out.
 
 If you're a self-taught developer, a curious builder, or someone starting "late" — you're in the right place.
 

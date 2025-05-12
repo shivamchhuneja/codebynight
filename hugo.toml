@@ -1,6 +1,6 @@
-baseURL = "http://swiftbynight.com/"
+baseURL = "http://codebynight.dev/"
 languageCode = "en-us"
-title = "Swift by Night iOS Development Journey Log"
+title = "Code by Night Learning to Program Journey Log"
 theme = "PaperMod"
 sectionPagesMenu = "main"
 
@@ -15,7 +15,7 @@ sectionPagesMenu = "main"
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  description = "Swift by Night is a Swift and iOS development learning journal - building and learning iOS development in public."
+  description = "Code by Night is a programming learning journal - building and learning development in public."
 
   [params.label]
     icon = "images/logo.png"
@@ -23,8 +23,8 @@ sectionPagesMenu = "main"
     text = " "
 
   [params.homeInfoParams]
-    Title = "A 30+ Guy Learning iOS Development in Public | Swift by Night Journey"
-    Content = "Started learning iOS Development late in life? So did I. Swift by Night shares stories, projects, and behind-the-scenes thoughts from someone who’s walking the Swift Developer path — building in public, reflecting in Markdown, and figuring things out."
+    Title = "A 30+ Guy Learning to Code in Public | Code by Night Dev Journey"
+    Content = "Started learning Development late in life? So did I. Code by Night shares stories, projects, and behind-the-scenes thoughts from someone who’s walking the Developer path — building in public, reflecting in Markdown, and figuring things out."
       [[params.socialIcons]]
     name = "github"
     url = "https://github.com/shivamchhuneja"
