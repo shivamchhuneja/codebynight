@@ -72,5 +72,10 @@ sectionPagesMenu = "main"
     url = "/categories/"
     weight = 4
 
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = "dracula"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
