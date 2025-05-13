@@ -21,6 +21,8 @@ _Items that are "checked" are published :), and linked._
 7. My Learning Stack: Books, Videos, and Projects
 8. Shipping My First CLI App in Golang
 9. How I Track My Backend Dev Progress with Daily Logs & Github
+10. Why I’m Learning Go, Neovim, Colemak layout and a Split Keyboard (All at Once)
+11. Choosing Colmak Over QWERTY While Learning to Code — Was It Worth It?
 
 ## 🧠 Getting Comfortable with Go
 
@@ -45,3 +47,4 @@ _Items that are "checked" are published :), and linked._
 22. Why It’s Not Too Late to Learn Systems Programming
 23. You Bring More Than Code — Why Your Background Is a Superpower
 24. How I’m Balancing a Full-Time Job and Backend Learning
+25. Making It Hard on Purpose: Learning Neovim and Colmak for Long-Term Comfort
