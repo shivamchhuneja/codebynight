@@ -1,6 +1,6 @@
 ---
 title: "Day 2 of Learning Go: The Pointers I Finally Understood (10 Years Later)"
-date: 2025-04-24
+date: 2025-05-13
 tags: ["Go", "Golang", "Pointers", "Learning to Code", "Backend Development"]
 categories: ["Learning Go", "Dev Journal"]
 draft: false
