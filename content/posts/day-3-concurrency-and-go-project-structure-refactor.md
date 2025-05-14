@@ -51,7 +51,7 @@ Took some trial and error, a bit of help from ChatGPT (like you’d use Stack Ov
 
 Here’s what it looks like right now:
 
-```
+```go
 Go/
 ├── calculators/
 │ ├── bank.go
@@ -74,7 +74,7 @@ Nothing fancy. But it’s mine, and it’s working.
 
 ## A Quick Snippet
 
-```
+```go
 package main
 
 import (
