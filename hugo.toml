@@ -77,7 +77,7 @@ sectionPagesMenu = "main"
 [markup]
   [markup.highlight]
     noClasses = false
-    style = "dracula"
+    style = "github"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
