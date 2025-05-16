@@ -8,6 +8,7 @@ sectionPagesMenu = "main"
   env = "production"
   author = "Shivam Chhuneja"
   defaultTheme = "auto"
+  comments = true
   googleAnalytics = "G-G64RCPRHRE"
   images = ["/images/preview.png"]
   ShowReadingTime = true
@@ -41,6 +42,7 @@ sectionPagesMenu = "main"
   favicon32x32 = "/images/favicon-96x96.png"
   apple_touch_icon = "/images/apple-touch-icon.png"
   safari_pinned_tab = "/images/favicon.svg"
+  customCSS = ["css/custom.css"]
 
 [params.social]
   github = "https://github.com/shivamchhuneja"
@@ -79,3 +81,4 @@ sectionPagesMenu = "main"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  

@@ -1,0 +1,88 @@
+/* For PaperMod's dark mode */
+body.dark {
+  background-color: #1e1e2e !important;
+  color: #cdd6f4 !important;
+}
+
+/* Content box border, background, and text colors */
+.dark .post-entry,
+.dark .entry,
+.dark .card,
+.dark .card-body,
+.dark .page-single { 
+  background-color: #232337 !important;
+  border: transparent !important;
+  color: #cdd6f4 !important;
+}
+
+.dark .post-entry *,
+.dark .entry *,
+.dark .card *,
+.dark .card-body *,
+.dark .page-single * {
+  color: #cdd6f4 !important;
+}
+
+/* TOC, code blocks etc */
+.dark .toc,
+.dark .toc-content,
+.dark pre,
+.dark code,
+.dark blockquote {
+  background-color: #232337 !important;
+  color: #cdd6f4 !important;
+  border: transparent !important;
+}
+
+/* Tags and category badges */
+.dark .taxonomy-tags,
+.dark .taxonomy-tags a,
+.dark .taxonomy-terms,
+.dark .taxonomy-terms a,
+.dark .post-tags a,
+.dark .terms-tags a {
+  background-color: #232337 !important;
+  color: #cdd6f4 !important;
+  border: transparent !important;
+}
+
+/* Social share bar boxes */
+.dark .share-buttons,
+.dark .share-buttons a {
+  background-color: #232337 !important;
+  color: #cdd6f4 !important;
+  border: transparent !important;
+}
+
+/* Breadcrumbs */
+.dark .breadcrumb,
+.dark .breadcrumb a {
+  color: #cdd6f4 !important;
+}
+
+/* Horizontal rules */
+
+.dark hr {
+  border-color: #cdd6f4 !important;
+}
+
+
+/* Pagination nav (Prev/Next post boxes) */
+.dark .paginav {
+  background-color: #232337 !important;
+  color: #cdd6f4 !important;
+  border: transparent !important;
+}
+
+/* Markdown HR elements */
+.dark hr {
+  background-color: #cdd6f4 !important;
+  height: 1px;
+  border: none;
+}
+
+.dark .paginav a:hover {
+  background-color: #3b3b5c !important;
+  color: #cdd6f4 !important;
+  border: transparent !important;
+}
