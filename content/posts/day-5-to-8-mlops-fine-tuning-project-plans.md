@@ -70,6 +70,8 @@ It’s amazing how much easier this feels the second time around.
 
 ### 🔁 **Fine-Tuning Language Models (The Real Work)**
 
+![First LLM fine-tune](/images/first_llm_fine_tune.jpeg)
+
 This was the biggest chunk.
 
 I fine-tuned three different models:
