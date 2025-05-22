@@ -14,7 +14,7 @@ I learned about pointers 10 years ago… and I hated them. I still hate them. Bu
 
 ---
 
-## Flashback: Engineering School and Existential Dread
+## Flashback: Engineering School and Existential Crisis
 
 Back in electronics engineering, we were handed C++ for one semester and told, “Here, go build your future.” By Day 2, we were doing pointers - not the helpful kind, but the kind that break your code, your compiler, and your soul.
 
@@ -46,7 +46,7 @@ Let’s break it down.
 
 Imagine you’re a dev with imposter syndrome. You don’t tell people the answer, maybe because you can't - you just give them a reference to Stack Overflow. Congratulations, that’s a pointer.
 
-(**I really do hope you are not sending people to Stack Overflow in 2025.**)
+(_I really do hope you are not sending people to Stack Overflow in 2025._)
 
 More formally: a pointer doesn’t hold a value, it holds the **address** of a value. Like saying:
 
