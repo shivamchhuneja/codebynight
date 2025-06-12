@@ -5,8 +5,8 @@ tags: ["Go", "Golang", "Pointers", "Learning to Code", "Backend Development"]
 categories: ["Learning Go", "Dev Journal"]
 draft: false
 ShowToc: true
-TocOpen: true
-ShowPostNavLinks: true
+TocOpen: false
+showpostNavLinks: true
 description: "A short, honest reflection on finally understanding pointers in Go — a concept that I picked up after a decade."
 ---
 
