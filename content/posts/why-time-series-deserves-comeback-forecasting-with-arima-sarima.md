@@ -179,6 +179,7 @@ A lot of DS and ML projects are going to require you to try a ton of things and 
 
 This is what I had for RMSE across different params:
 
+```python
 | Model            | Order     | Seasonal Order   | RMSE       |
 |------------------|-----------|------------------|------------|
 | AR               | (2, 0, 0) | None             | 50.691553  |
@@ -187,6 +188,7 @@ This is what I had for RMSE across different params:
 | SARIMA           | (1, 1, 2) | (0, 1, 1, 12)     | 11.258172  |
 | Best Auto ARIMA  | (2, 1, 3) | None             | 19.700298  |
 | Best Auto SARIMA | (2, 1, 2) | (1, 0, 1, 12)     | 10.474901  |
+```
 
 After fitting, forecasting is straightforward.
 
@@ -223,6 +225,7 @@ print(forecast_table)
 
 This is the actual forecast with the confidence intervals.
 
+```python
 | Date       | Forecast   | Lower 95% | Upper 95% | Lower 99% | Upper 99% |
 |------------|------------|-----------|-----------|-----------|-----------|
 | 1995-08-31 | 43.32      | 7.38      | 79.27      | -3.92     | 90.57     |
@@ -237,6 +240,7 @@ This is the actual forecast with the confidence intervals.
 | 1996-05-31 | 30.52      | -8.26     | 69.30      | -20.44    | 81.49     |
 | 1996-06-30 | 36.76      | -2.18     | 75.70      | -14.42    | 87.94     |
 | 1996-07-31 | 46.87      | 7.77      | 85.98      | -4.52     | 98.27     |
+```
 
 And the following code gives us our forecast chart with the confidence intervals.
 
