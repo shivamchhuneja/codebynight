@@ -524,9 +524,8 @@ Feature importance scores are the direct link to actionable insights.
 
 ```python
 importances = model.feature_importances_
-feature_names = X.columns # Assuming X holds your feature names
+feature_names = X.columns
 
-# Create a DataFrame for easy viewing and sorting
 feature_importances_df = pd.DataFrame({'feature': feature_names, 'importance': importances})
 feature_importances_df = feature_importances_df.sort_values(by='importance', ascending=False)
 
