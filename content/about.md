@@ -8,11 +8,9 @@ ShowShareButtons: false
 
 Welcome to Code by Night 👋
 
-I’m Shivam — I'm a marketing data scientist learning to code one late-night build at a time.
+I’m Shivam — I'm a growth marketer turned data scientist and now pushing to become a machine learning engineer.
 
-This blog is my learning journal as I dive deep into programming & buiding things from scratch — no CS degree, no fancy bootcamp, just an itch to build & figure things out.
-
-If you're a self-taught developer, a curious builder, or someone starting "late" — you're in the right place.
+This blog is my learning journal as I dive deep into machine learning, programming & buiding things from scratch - no CS degree, no fancy bootcamp, just an itch to build & figure things out.
 
 Here, I document what I learn, what I struggle with, and what finally clicks.
 
@@ -20,6 +18,6 @@ If you're getting into tech you don’t have to go through it alone, I'm happy t
 
 Let’s build, learn, and ship.
 
-Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamchhuneja), [GitHub](https://github.com/shivamchhuneja), [Instagram](https://www.instagram.com/shivamchhuneja)
+Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamchhuneja), [GitHub](https://github.com/shivamchhuneja)
 
 ---
