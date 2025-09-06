@@ -14,9 +14,9 @@ categories: ["Data Science", "AI Engineering", "Machine Learning"]
 
 In marketing, we live and die by templates. Landing page templates. Ad copy frameworks. Campaign recipes. Machine learning wouldn’t be that different, right? Just plug in your dataset, borrow someone’s notebook from Kaggle, tweak a few parameters, and be done with it.
 
-That’s how a lot of people approach it. And to be fair, it kind of works—until it doesn’t. You get a model that runs, a prediction that looks reasonable, a chart that impresses in a meeting. But under the surface, there's often a gap. You don’t really *know* what’s going on.
+That’s how a lot of people approach it. And to be fair, it kind of works, until it doesn’t. You get a model that runs, a prediction that looks reasonable, a chart that impresses in a meeting. But under the surface, there's often a gap. You don’t really *know* what’s going on.
 
-It’s like using a microwave without understanding how it heats food. You press buttons. It beeps. Something comes out hot. But if it breaks—or if you need it to do something different—you’re stuck.
+It’s like using a microwave without understanding how it heats food. You press buttons. It beeps. Something comes out hot. But if it breaks or if you need it to do something different, you’re stuck.
 
 That’s the part I couldn’t accept. I don’t want to be a microwave user. I want to be the person who understands how it works.
 
