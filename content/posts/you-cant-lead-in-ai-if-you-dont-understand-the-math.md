@@ -28,6 +28,8 @@ Right now I’m working through:
 
 Most nights it’s a couple pages, and then on the weekends the goal is to go through a chapter. Sometimes I try to rework a proof. Other times I just sit with a concept until it clicks.
 
+![Intro to Statistical Learning](/images/blog/intro_to_statistical_learning.jpeg)
+
 This all started a few months ago. I was reviewing a machine learning pipeline for a core project I was working on in my coursework for the masters.
 
 Something felt off. We looked closer and found a classic problem: the test set wasn’t independent. Some data leakage had slipped through. A simple mistake, but it went unnoticed because everyone trusted the dashboard.
