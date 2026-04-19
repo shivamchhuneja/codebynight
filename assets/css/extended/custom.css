@@ -1,0 +1,5 @@
+[data-theme="dark"] {
+    --theme: #1a1026;
+    --entry: #1f1430;
+    --primary: inherit;
+}
