@@ -1,7 +1,7 @@
 ---
 title: A Pragmatic Review of The Hundred-Page Machine Learning Book
 date: 2025-06-20
-draft: false
+draft: true
 toc: true
 tocOpen: false
 showPostNavLinks: true
