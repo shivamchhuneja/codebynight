@@ -16,7 +16,7 @@ ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
-description = "Code by Night is a programming learning journal - building and learning development in public."
+description = "Code by Night is my programming learning journal - building and learning development in public."
 
 [params.label]
 icon = "images/logo.png"
@@ -24,7 +24,7 @@ iconHeight = 50
 text = " "
 
 [params.homeInfoParams]
-Title = "A 30+ Marketing Guy Learning to Code in Public | Data Science, Growth Hacking, Machine Learning, AI & More"
+Title = "A 30+ Marketing Guy Learning to Code in Public | Backend Engineering, Machine Learning, AI & More"
 Content = "I’ve spent years in growth marketing, shipping campaigns, analyzing funnels, and scaling products. But I wanted to get closer to the code to build, break, and learn things myself. Code by Night is a running log of that journey. It’s where I document what I’m building, how I’m thinking about it, and what it’s teaching me."
 [[params.socialIcons]]
 name = "github"

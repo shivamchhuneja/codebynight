@@ -8,11 +8,9 @@ ShowShareButtons: false
 
 Welcome to Code by Night 👋
 
-I’m Shivam — I'm a growth marketer turned data scientist and now pushing to become a machine learning engineer.
+I’m Shivam — I'm a GTM engineer learning backend engineering.
 
-This blog is my learning journal as I dive deep into machine learning, programming & buiding things from scratch - no CS degree, no fancy bootcamp, just an itch to build & figure things out.
-
-Here, I document what I learn, what I struggle with, and what finally clicks.
+This blog is my learning journal as I dive deep into programming & buiding things from scratch as a marketer.
 
 If you're getting into tech you don’t have to go through it alone, I'm happy to stumble alongside you and "figure it out".
 
