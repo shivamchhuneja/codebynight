@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+<title id="title">A churn score is not a retention system</title>
+<desc id="desc">Flow from data to churn model to risk score to dashboard, with missing operating layer shown below.</desc>
+<style>text{font-family:"Open Sans",Arial,sans-serif;font-weight:400}.title{font-size:28px;fill:#9aa0a6}.box{stroke:#1e1e1e;stroke-width:2.5;rx:16;ry:16}.label{font-size:18px;fill:#2f3437}.small{font-size:15px;fill:#9aa0a6}.note{font-size:20px;fill:#9aa0a6}</style>
+<text x="500" y="45" text-anchor="middle" class="title" fill="#9aa0a6">A churn score is not a retention system</text>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9aa0a6"/></marker></defs>
+<rect class="box" x="60" y="130" width="150" height="90" fill="#c3fae8"/><text class="label" x="135" y="166" text-anchor="middle"><tspan x="135">Raw customer</tspan><tspan x="135" dy="23">data</tspan></text>
+<line x1="220" y1="175" x2="285" y2="175" stroke="#9aa0a6" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect class="box" x="295" y="130" width="150" height="90" fill="#d0bfff"/><text class="label" x="370" y="166" text-anchor="middle"><tspan x="370">Churn</tspan><tspan x="370" dy="23">model</tspan></text>
+<line x1="455" y1="175" x2="520" y2="175" stroke="#9aa0a6" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect class="box" x="530" y="130" width="150" height="90" fill="#a5d8ff"/><text class="label" x="605" y="183" text-anchor="middle">Risk score</text>
+<line x1="690" y1="175" x2="755" y2="175" stroke="#9aa0a6" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect class="box" x="765" y="130" width="170" height="90" fill="#fff3bf"/><text class="label" x="850" y="166" text-anchor="middle"><tspan x="850">Dashboard</tspan><tspan x="850" dy="23">that may die</tspan></text>
+<line x1="610" y1="225" x2="610" y2="285" stroke="#9aa0a6" stroke-width="2.5" stroke-dasharray="8 7" marker-end="url(#arrow)"/><text class="small" x="652" y="260" text-anchor="middle">without this</text>
+<rect class="box" x="265" y="290" width="460" height="95" fill="#ffc9c9"/><text class="label" x="495" y="326" text-anchor="middle"><tspan x="495">Missing operating layer:</tspan><tspan x="495" dy="25">owner + action + timing + feedback</tspan></text>
+<text class="note" x="500" y="455" text-anchor="middle">Prediction can be useful, but it does not create retention by itself.</text>
+</svg>
