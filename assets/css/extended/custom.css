@@ -8,4 +8,30 @@
     --hljs-bg: #181825;
     --code-bg: #181825;
     --border: #313244;
+    --code-bg: #181825;
+    --hljs-bg: #181825;
+}
+
+
+:root[data-theme="dark"] .highlight,
+:root[data-theme="dark"] .highlight pre,
+:root[data-theme="dark"] .highlight .chroma,
+:root[data-theme="dark"] .highlight code {
+    background: #181825 !important;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+:root[data-theme="dark"] .post-content pre {
+    background: #181825 !important;
+}
+
+:root[data-theme="dark"] .post-content code {
+    background: transparent;
+}
+
+:root[data-theme="dark"] .copy-code {
+    background: #313244;
+    color: #cdd6f4;
+    border: 1px solid #45475a;
 }
