@@ -1,6 +1,6 @@
 ---
 title: "What One Year in AI Security and Governance Changed About How I See AI"
-date: 2026-06-18
+date: 2026-06-26
 tags: ["AI security", "AI governance", "GTM engineering", "machine learning", "AI"]
 categories: ["AI", "Cyber Security", "Learning"]
 draft: false
