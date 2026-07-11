@@ -3,7 +3,7 @@ title: "ARIMA vs. SARIMA: Differences and When to Use Each for Forecasting"
 date: 2025-06-19
 description: "ARIMA vs SARIMA explained: the key difference is seasonality. See when to use each model, how their parameters differ, and how to validate your choice."
 tags: ["time series", "forecasting", "ARIMA", "SARIMA", "machine learning", "Python"]
-categories: ["Machine Learning", "Time Series", "Data Science"]
+categories: ["Machine Learning", "Time Series"]
 draft: false
 ShowToc: true
 TocOpen: false

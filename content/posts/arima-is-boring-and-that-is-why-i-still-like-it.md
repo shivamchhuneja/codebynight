@@ -2,7 +2,7 @@
 title: "ARIMA Is Boring, and That Is Why I Still Like It"
 date: 2026-07-11
 tags: ["ARIMA", "time series", "forecasting", "machine learning", "business analytics"]
-categories: ["Machine Learning", "Time Series", "Data Science"]
+categories: ["Machine Learning", "Time Series"]
 draft: false
 ShowToc: true
 TocOpen: false

@@ -2,7 +2,7 @@
 title: "A Beginner Explains Pointers in Go: The Thing That Made Me Quit Coding (And Why I'm Back Now)"
 date: 2025-05-22
 tags: ["Golang", "Pointers", "Learning Go", "Dev Life"]
-categories: ["Learning Go", "Developer Thoughts"]
+categories: ["Systems & Backend", "Learning"]
 draft: false
 ShowToc: true
 TocOpen: false

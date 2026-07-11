@@ -2,7 +2,7 @@
 title: "Full Code Walkthrough - Reducing Churn in E-Commerce with Predictive Modelling"
 date: 2025-06-18
 tags: ["machine learning", "churn prediction", "data science", "code walkthrough", "Python"]
-categories: ["Machine Learning", "Data Science", "Churn Prediction", "Predictive Modelling"]
+categories: ["Machine Learning"]
 draft: false
 ShowToc: true
 TocOpen: false

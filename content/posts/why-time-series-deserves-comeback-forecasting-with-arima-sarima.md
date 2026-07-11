@@ -2,7 +2,7 @@
 title: "Why ARIMA and SARIMA Still Matter: A Technical Guide to Time Series Forecasting"
 date: 2025-06-16
 tags: ["Time Series", "ARIMA", "SARIMA", "Machine Learning", "Forecasting", "Business Analytics"]
-categories: ["Data Science", "Machine Learning"]
+categories: ["Machine Learning", "Time Series"]
 draft: false
 ShowToc: true
 TocOpen: false

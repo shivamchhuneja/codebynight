@@ -7,7 +7,7 @@ tocOpen: false
 showPostNavLinks: true
 description: The first book I read when I got serious about machine learning. Here’s a practical, no-bs review of Andriy Burkov’s 'Hundred-Page Machine Learning Book'. What it teaches well, what it skips, and who will benefit most.
 tags: ["book review", "machine learning", "data science", "ml books"]
-categories: ["Machine Learning", "Reviews", "Data Science"]
+categories: ["Machine Learning"]
 ---
 
 The moment we decide to learn machine learning, we find that most of the resources are quite deep. And almost none are geared to give you a 30,000 foot view across the ML landscape.

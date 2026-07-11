@@ -10,7 +10,7 @@ tags:
     "Developer Journal",
     "Learning Journey",
   ]
-categories: ["Learning Go", "AI/ML Journey"]
+categories: ["Systems & Backend", "Machine Learning"]
 draft: false
 ShowToc: true
 TocOpen: false

@@ -7,7 +7,7 @@ tocOpen: false
 showPostNavLinks: true
 description: Why I’m resisting the urge to copy‑paste ML, relearning the math behind algorithms, and building from scratch to bridge marketing and machine learning.
 tags: ["learning journey", "machine learning", "data science", "deep learning", "ai engineering"]
-categories: ["Data Science", "AI Engineering", "Machine Learning"]
+categories: ["Machine Learning", "AI"]
 ---
 
 ## When Copy‑Paste Stops Working

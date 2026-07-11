@@ -2,7 +2,7 @@
 title: "1 Year of Omarchy as My Learning OS, Not Just My Linux Setup"
 date: 2026-06-28
 tags: ["Omarchy", "Linux", "Arch Linux", "Learning", "AI", "Obsidian"]
-categories: ["Linux", "Learning", "AI"]
+categories: ["Linux", "Learning"]
 draft: false
 ShowToc: true
 TocOpen: false

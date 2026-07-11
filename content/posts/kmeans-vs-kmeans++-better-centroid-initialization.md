@@ -1,6 +1,7 @@
 ---
 title: "K-Means vs K-Means++: Smarter Centroids, Better Clusters"
 date: 2025-06-30
+categories: ["Machine Learning"]
 tags: ["machine learning", "unsupervised learning", "clustering", "kmeans"]
 description: "K-Means++ improves K-Means by choosing better initial centroids using a distance-aware probability distribution. A couple of thoughts on it as I read through this again today."
 math: true

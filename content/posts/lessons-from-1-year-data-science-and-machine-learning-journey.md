@@ -3,7 +3,7 @@ title: "22 Lessons from 1 year in Data Science and Machine Learning"
 description: "I started data science in 2024, and now 1 year in of masters in DS, building personal projects as well as applying what I learnt into projects for my job I feel there are tons of lessons I can share. These are mainly honest, practical lessons you’ll only learn by doing."
 date: 2025-05-28
 tags: ["data science", "machine learning", "career", "learning"]
-categories: ["Learning", "Career", "Data Science", "Machine Learning"]
+categories: ["Machine Learning", "Learning"]
 draft: false
 ShowToc: true
 TocOpen: false

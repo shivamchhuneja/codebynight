@@ -2,7 +2,7 @@
 title: "A Primer to Framing Business Problems for Machine Learning"
 date: 2025-06-17
 description: "Here is how to frame vague business goals into clear machine learning problems using classification, regression, and ranking lenses to make real-world impact."
-categories: ["Machine Learning", "Data Science", "Business"]
+categories: ["Machine Learning", "GTM Engineering"]
 tags: ["problem framing", "machine learning", "data science", "classification", "regression", "ranking", "real world ML"]
 ShowToc: true
 TocOpen: false

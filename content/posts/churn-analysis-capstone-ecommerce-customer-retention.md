@@ -11,7 +11,7 @@ tags:
     "MLOps",
     "Python",
   ]
-categories: ["Machine Learning Projects"]
+categories: ["Machine Learning"]
 draft: false
 ShowToc: true
 TocOpen: false

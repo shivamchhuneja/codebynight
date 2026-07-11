@@ -3,7 +3,7 @@ title: "Day 5–8: Fine-Tuning AI Models, Learning MLOps, and Structuring My Yea
 date: 2025-05-21
 tags:
   ["Golang", "AI", "Deep Learning", "MLOps", "Fine-Tuning", "Learning Journal"]
-categories: ["Learning Go", "AI/ML Journey"]
+categories: ["Machine Learning", "Learning"]
 draft: false
 ShowToc: true
 TocOpen: false

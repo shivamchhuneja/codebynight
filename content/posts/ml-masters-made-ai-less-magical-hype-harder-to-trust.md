@@ -2,7 +2,7 @@
 title: "My Machine Learning master’s degree made AI feel less magical, and the hype harder to trust"
 date: 2026-06-17
 tags: ["machine learning", "AI", "data science"]
-categories: ["Machine Learning", "AI", "Learning"]
+categories: ["Machine Learning", "Learning"]
 draft: false
 ShowToc: true
 TocOpen: false

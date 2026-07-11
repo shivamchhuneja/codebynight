@@ -2,7 +2,7 @@
 title: "Marketers Must Evolve Into Marketing Engineers To Survive The AI World"
 date: 2026-04-19
 tags: ["Marketing", "Automation", "AI", "N8n", "Workflows", "GTM Engineering"]
-categories: ["Marketing Engineering", "AI", "GTM Engineering"]
+categories: ["AI", "GTM Engineering"]
 draft: false
 ShowToc: true
 TocOpen: false

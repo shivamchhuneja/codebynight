@@ -3,7 +3,7 @@ title: "I Built an Open Source AI Powered SaaS Market Intelligence Tool for Mark
 date: 2025-06-22
 description: "A full walkthrough of building and deploying a SaaS Market Intelligence tool using Streamlit + FastAPI + GPT-4. I cover prompt design for clarity vs competitor analysis, scraping dynamic websites with Playwright, deployment lessons using Render, and what’s next for the tool - all from a builder-marketer’s perspective."
 tags: ["saas", "streamlit", "fastapi", "technical marketing", "growth engineering", "ai tools"]
-categories: ["Projects", "AI Tools", "Growth Engineering"]
+categories: ["GTM Engineering", "AI"]
 draft: false
 ShowToc: true
 TocOpen: false

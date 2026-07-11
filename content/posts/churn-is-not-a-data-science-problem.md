@@ -2,7 +2,7 @@
 title: "Churn Is Not a Data Science Problem"
 date: 2026-06-21
 tags: ["Churn", "Customer Retention", "Data Science", "Machine Learning"]
-categories: ["Data Science", "Machine Learning"]
+categories: ["Machine Learning", "GTM Engineering"]
 draft: false
 ShowToc: true
 TocOpen: false

@@ -7,7 +7,7 @@ tocOpen: false
 showPostNavLinks: true
 description: AI browsers are all about convenience, but behind the scenes, they're filled with serious security, privacy, and trust issues. Here's why you should hold off on using them.
 tags: ["AI browsers", "privacy", "security", "browser agents", "AI risks"]
-categories: ["AI", "Technology", "Security"]
+categories: ["AI", "Cybersecurity"]
 ---
 
 ## AI Browsers Are Here. But Should You Trust Them?

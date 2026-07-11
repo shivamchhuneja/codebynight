@@ -2,7 +2,7 @@
 title: "AI Agent Guardrails Look Simple Until You Actually Code Them"
 date: 2026-07-02
 tags: ["AI agents", "AI security", "AI governance", "backend engineering"]
-categories: ["AI", "Cyber Security", "Learning"]
+categories: ["AI", "Cybersecurity"]
 draft: false
 ShowToc: true
 TocOpen: false

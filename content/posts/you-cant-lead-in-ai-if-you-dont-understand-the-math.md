@@ -7,7 +7,7 @@ tocOpen: false
 showPostNavLinks: true
 description: The more abstracted AI becomes, the more valuable it is to understand what’s behind the abstraction. A personal note on why I’m going back to the math behind machine learning.
 tags: ["machine learning", "math", "AI engineering", "data science"]
-categories: ["Data Science", "AI Engineering", "Mathematics"]
+categories: ["Machine Learning", "AI"]
 ---
 
 ## Why I’m Picking Up the Math Now

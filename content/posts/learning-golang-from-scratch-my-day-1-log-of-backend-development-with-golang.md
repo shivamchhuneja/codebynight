@@ -9,7 +9,7 @@ tags:
     "Code Journal",
     "Learning to Code",
   ]
-categories: ["Go Journey", "Learning to Code", "Backend Dev"]
+categories: ["Systems & Backend"]
 draft: false
 ShowToc: true
 TocOpen: false

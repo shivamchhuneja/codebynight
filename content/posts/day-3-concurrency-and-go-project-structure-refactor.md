@@ -2,7 +2,7 @@
 title: "Day 3 of Learning Go: Concurrency & Project Structure Refactor"
 date: 2025-05-14
 tags: ["Go", "Concurrency", "Project Structure", "Learning to Code"]
-categories: ["Learning Go", "Dev Journal"]
+categories: ["Systems & Backend"]
 draft: false
 ShowToc: true
 TocOpen: false
