@@ -636,7 +636,7 @@ I came to see that my role wasn't just to identify which customers were likely t
 
 This meant looking at patterns, understanding the context, and connecting the dots in a way that could inform proactive strategies.
 
-So, whatever you're trying to predict, remember to look beyond the prediction itself.
+So, whatever you're trying to predict, remember to look beyond the prediction itself. I came back to that idea later in [Churn Is Not a Data Science Problem](/posts/churn-is-not-a-data-science-problem/), after realizing the prediction is only one tiny part of whether anyone gets retained.
 
 Dig into the "why." That's often where the best insights and the opportunities for impact tend to lie.
 
@@ -755,7 +755,7 @@ I re-read explanations, watched videos (shoutout to resources like [3Blue1Brown 
 
 For math specifically I also took the specialization of mathematics for machine learning on coursera which was damn helpful - and I finished it twice in 1 year, and probably will do it once more in the next couple of months.
 
-The goal isn't necessarily to become a research mathematician, but to build enough intuition so that the algorithms aren't just magic.
+The goal isn't necessarily to become a research mathematician, but to build enough intuition so that the algorithms aren't just magic. Finishing the master’s made that lesson feel even more real, which I wrote about in [My Machine Learning master’s degree made AI feel less magical](/posts/ml-masters-made-ai-less-magical-hype-harder-to-trust/).
 
 Go at your own pace, use different resources, but don't shy away from the math.
 

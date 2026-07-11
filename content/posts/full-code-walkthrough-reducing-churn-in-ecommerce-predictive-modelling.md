@@ -655,6 +655,8 @@ This project, and others like it, really taught me some lessons that go beyond j
 - **Don't Overfit to Metrics:** Understand *why* you're using a particular metric. High recall isn't always better if your false alarms are very costly (e.g., flagging healthy patients as sick). Align your metrics with real world consequences.
 - **Your Model is a Tool, Not the Product:** The ultimate goal isn't a perfect model score. What truly matters is how your model helps people (product managers, marketing teams, executives) make better, data-informed decisions.
 
+I came back to this later in [Churn Is Not a Data Science Problem](/posts/churn-is-not-a-data-science-problem/), because a decent prediction still does nothing on its own.
+
 ---
 
 If this walkthrough helped you think more clearly about data science projects (or if you just love seeing DS in action), feel free to share it with a friend or drop a comment with your thoughts.

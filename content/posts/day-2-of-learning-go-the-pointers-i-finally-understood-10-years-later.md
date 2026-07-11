@@ -49,7 +49,7 @@ It’s not about how much I built today - it’s about how much I _learned_.
 
 Understanding pointers used to feel like a gatekeeping concept. Like something you either “got” or you didn’t. But turns out, it just needed the right time, the right mindset, and the right explanation.
 
-And now that it’s clicked, I can’t wait to build on this tomorrow.
+And now that it’s clicked, I can’t wait to build on this tomorrow. I eventually wrote a [longer explanation of pointers in Go](/posts/a-beginner-explains-pointers-in-golang/) once I had sat with them for a bit longer.
 
 ---
 

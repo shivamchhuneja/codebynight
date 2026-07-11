@@ -144,6 +144,8 @@ Top predictors of churn from the model:
 
 This wasn’t just a modeling exercise - it was a strategy recommendation engine.
 
+I wrote later about [why churn is not really a data science problem](/posts/churn-is-not-a-data-science-problem/). The model matters, but only if it leads to a retention workflow someone can actually run.
+
 Key takeaways:
 
 - **Churn is complex**: No one variable dominates, but multiple small signals do.

@@ -14,7 +14,7 @@ So, the idea for this came from a chat I had with Dhruv, the CEO of Middleware.
 
 He pointed out that I should think of myself as a 'builder-marketer,' not just a marketer, and that I should build stuff that proves it.
 
-I thought about it, and he had a point.
+I thought about it, and he had a point. A few years later, I would put the same feeling more directly: [marketers need enough engineering instinct to build and debug their own workflows](/posts/marketers-must-become-engineers/).
 
 So I decided to build a project that would be useful for marketing and growth, but also something I could deploy myself.
 

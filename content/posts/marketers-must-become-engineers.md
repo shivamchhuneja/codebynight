@@ -26,7 +26,7 @@ I think people undersell how much of marketing can actually be automated. A big 
 
 The time you get back from that stuff can make a difference. I've felt it in my own work.
 
-But there's a catch I've hit enough times to just treat as a rule now. Human in the loop is non-negotiable. If you try to fully automate output, it looks fine for a week and then it starts drifting in ways you don't catch until someone points it out. The workflow does the monkey work, you do the judgment. That's the plan.
+But there's a catch I've hit enough times to just treat as a rule now. Human in the loop is non-negotiable. If you try to fully automate output, it looks fine for a week and then it starts drifting in ways you don't catch until someone points it out. The workflow does the monkey work, you do the judgment. That's the plan. I ran into the code version of this later while building [a tiny AI-agent guardrail](/posts/ai-agent-guardrails-look-simple-until-you-code-them/): a prompt can ask nicely, but the boundary still has to exist in code.
 
 My stack is tools like Clay, n8n, Claude and others in between. And tbh Claude's built-in connectors are underrated. A lot of things people assume need a custom n8n flow can be handled through Claude directly, which saves you a weekend. But some things really do need a proper custom flow and knowing which is which mostly comes from having built a few things and broken them.
 

@@ -101,7 +101,7 @@ At first, I was trying to get long-form, structured outputs using models that we
 
 What made a real difference was this realization — **if your model isn’t aligned to your use case, no amount of prompting, training, or tweaking will get you good results**.
 
-I now spend more time upfront asking: _Is this even the right model to fine-tune for this task?_ And in most cases, the answer tells me what I need to fix not the code, not the GPU setup, but the alignment itself.
+I now spend more time upfront asking: _Is this even the right model to fine-tune for this task?_ And in most cases, the answer tells me what I need to fix not the code, not the GPU setup, but the alignment itself. That instinct only became stronger after I finished the degree and wrote about why it made [AI feel less magical and the hype harder to trust](/posts/ml-masters-made-ai-less-magical-hype-harder-to-trust/).
 
 ---
 

@@ -47,6 +47,8 @@ That quality made me curious. Who builds software like this and how?
 
 And more importantly: Why not me?
 
+That question eventually became less about trying random tools and more about building a place to learn from them. I wrote about that much later in [my year of using Omarchy as a learning OS](/posts/one-year-omarchy-learning-os-not-just-linux-setup/).
+
 ## Discovering Programming Again
 
 When I finally started exploring coding, I wasn’t exactly sure what I was walking into. Programming languages sounded elegant. Fast. Clean. And honestly, they felt… inviting in a way that many other technical skills didn’t.

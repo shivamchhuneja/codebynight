@@ -16,7 +16,7 @@ And two of the most reliable classical tools for this are the ARIMA and SARIMA m
 
 To be honest I was quite confused when I first learnt about these a year ago but they do make a ton of intuitive sense once you understand them on a deeper level.
 
-The names are similar, and so is their underlying logic, but there is a key difference that more or less decides which one you will pick in what scenario.
+The names are similar, and so is their underlying logic, but there is a key difference that more or less decides which one you will pick in what scenario. I also wrote later about [why I still like ARIMA precisely because it is boring](/posts/arima-is-boring-and-that-is-why-i-still-like-it/), which is kind of the larger point behind caring about these differences.
 
 ![ARIMA SARIMA Data Science Meme](/images/blog/arima_sarima_meme.jpg)
 

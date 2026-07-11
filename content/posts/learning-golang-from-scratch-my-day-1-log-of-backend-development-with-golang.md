@@ -19,7 +19,7 @@ description: "Documenting my first day of learning Golang from scratch with real
 
 I’ve just started my backend development journey - and I’m doing it with Go. Or Golang, if you prefer that name.
 
-Why Go? Honestly, it feels solid. It’s clean. It’s simple. And most importantly, for some weird reason I don't yet understand, it’s _fun_. I’ve worked with Python before (mostly for data science & ML), but this time, I want to learn something from the ground up that’ll help me build real, scalable projects.
+Why Go? Honestly, it feels solid. It’s clean. It’s simple. And most importantly, for some weird reason I don't yet understand, it’s _fun_. I’ve worked with Python before (mostly for data science & ML), but this time, I want to learn something from the ground up that’ll help me build real, scalable projects. This eventually became part of the wider learning setup I wrote about in [my year with Omarchy](/posts/one-year-omarchy-learning-os-not-just-linux-setup/).
 
 So here’s what Day 1 looked like.
 

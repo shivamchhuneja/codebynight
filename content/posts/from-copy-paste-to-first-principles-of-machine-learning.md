@@ -33,7 +33,7 @@ The two books guiding me right now are:
 - *Introduction to Statistical Learning with Python* — clear, practical, and great for intuition.  
 - *Mathematics for Machine Learning* — a bit heavier, but it’s giving me the tools I skipped over before: linear algebra, calculus, and probability.
 
-It’s not fast, but it’s already changing how I think about problems.
+It’s not fast, but it’s already changing how I think about problems. By the end of the master’s, I could see more clearly why that slower work made AI feel less magical and the hype [harder to trust](/posts/ml-masters-made-ai-less-magical-hype-harder-to-trust/).
 
 ## From Marketer to ML Engineer
 
@@ -43,7 +43,7 @@ Marketing taught me how to spot patterns, think about behavior, and tell a story
 
 Understanding the mechanics matters. I want to be able to write a function and know exactly what it’s doing. Not just trust the output, but trace it. Break it. Fix it.
 
-That mindset is shaping how I approach AI, too. Instead of relying on GPT like a magic box, I’m starting to study RAGs, embeddings, and the actual architecture behind language models.
+That mindset is shaping how I approach AI, too. Instead of relying on GPT like a magic box, I’m starting to study RAGs, embeddings, and the actual architecture behind language models. It also became much more practical after [a year working around AI security and governance](/posts/one-year-ai-security-governance-see-ai-differently/).
 
 ## What This Looks Like (So Far)
 

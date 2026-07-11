@@ -22,7 +22,7 @@ Traditional time series models, especially **ARIMA** (AutoRegressive Integrated 
 
 These models are not flashy, but they are robust, straight forward to explain, and often outperform complex black-box models on _smaller datasets_ with clear seasonality and trends.
 
-IMHO, ARIMA and SARIMA deserve a comeback in your ML toolkit.
+IMHO, ARIMA and SARIMA deserve a comeback in your ML toolkit. I came back to this idea later in [ARIMA Is Boring, and That Is Why I Still Like It](/posts/arima-is-boring-and-that-is-why-i-still-like-it/), mainly because boring models make it harder to skip the uncomfortable questions about the data.
 
 Alright let's touch upon these and then I'll walk you through a practical example forecasting monthly Rosé wine sales.
 

@@ -45,6 +45,8 @@ You can spend weeks building a model with 99% accuracy, just to find out that it
 
 It's a model that's technically correct but practically useless. It answers a question nobody was asking.
 
+I ran into a more concrete version of this with churn later. [A prediction is only useful when it becomes part of a retention workflow](/posts/churn-is-not-a-data-science-problem/).
+
 Proper framing changes a high-level objective like "increase revenue" into a precise, machine-solvable question like, "What is the predicted purchase value of this specific user in the next 30 days?"
 
 When you get the frame right, you know that the model you build will directly support a business decision.
