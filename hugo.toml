@@ -16,16 +16,16 @@ ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
-description = "Code by Night is my programming learning journal - building and learning development in public."
+description = "Writing about GTM engineering, AI security, automation, backend systems, Linux, machine learning, and learning how these pieces actually work."
 
 [params.label]
-icon = "images/logo.png"
+icon = "images/logo.webp"
 iconHeight = 50
 text = " "
 
 [params.homeInfoParams]
-Title = "A 30+ Marketing Guy Learning to Code in Public | Backend Engineering, Machine Learning, AI & More"
-Content = "I’ve spent years in growth marketing, shipping campaigns, analyzing funnels, and scaling products. But I wanted to get closer to the code to build, break, and learn things myself. Code by Night is a running log of that journey. It’s where I document what I’m building, how I’m thinking about it, and what it’s teaching me."
+Title = "My notes on GTM work, code(backend engg, systems), AI, and the technical stuff I find myself diving into"
+Content = "I spent years working in marketing and GTM, but I kept wanting to understand more of the technical work happening behind the tools I used every day. So I started learning properly. Backend systems, Linux, machine learning, AI security, random scripts, and the one off things that break for a reason I do not understand. I write about that here."
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/shivamchhuneja"
@@ -37,11 +37,11 @@ name = "linkedin"
 url = "https://www.linkedin.com/in/shivamchhuneja"
 
 [params.assets]
-favicon = "/images/favicon.ico"
-favicon16x16 = "/images/favicon-96x96.png"
-favicon32x32 = "/images/favicon-96x96.png"
+favicon = "/images/favicon.webp"
+favicon16x16 = "/images/favicon.webp"
+favicon32x32 = "/images/favicon.webp"
 apple_touch_icon = "/images/apple-touch-icon.png"
-safari_pinned_tab = "/images/favicon.svg"
+safari_pinned_tab = "/images/favicon.webp"
 customCSS = ["css/custom.css"]
 
 [params.social]
