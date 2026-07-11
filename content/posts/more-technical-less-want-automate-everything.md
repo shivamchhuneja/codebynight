@@ -1,6 +1,6 @@
 ---
 title: "The More Technical I Get, the Less I Want to Automate Everything"
-date: 2026-06-28
+date: 2026-07-05
 tags: ["automation", "GTM engineering", "AI", "AI security", "backend engineering"]
 categories: ["AI", "GTM Engineering"]
 draft: true
