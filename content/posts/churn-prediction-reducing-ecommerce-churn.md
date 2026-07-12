@@ -1,13 +1,13 @@
 ---
 title: "Churn Prediction Is Easy. Reducing E-Commerce Churn Is Hard."
-date: 2026-07-11
+date: 2026-07-12
 tags: ["ecommerce churn", "customer retention", "churn prediction", "ecommerce", "machine learning"]
 categories: ["Machine Learning", "GTM Engineering"]
-draft: true
+draft: false
 ShowToc: true
 TocOpen: false
 ShowPostNavLinks: true
-description: "How to reduce e-commerce churn after building a churn prediction model. A practical look at retention workflows, customer context, discounts, and what happens after the score."
+description: "How to reduce e-commerce churn after building a churn prediction model. A quick and raw look at retention workflows, customer context, discounts, and what happens after the churn score."
 ---
 
 I have spent around seven years working in e-commerce in one way or another.
