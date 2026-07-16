@@ -16,7 +16,7 @@ ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
-description = "Writing about GTM engineering, AI security, automation, backend systems, Linux, machine learning, and learning how these pieces actually work."
+description = "Building and Investigating Data, AI and Backend Systems"
 
 [params.label]
 icon = "images/logo.webp"
@@ -24,8 +24,8 @@ iconHeight = 50
 text = " "
 
 [params.homeInfoParams]
-Title = "My notes on GTM work, code(backend engg, systems), AI, and the technical stuff I find myself diving into"
-Content = "I spent years working in marketing and GTM, but I kept wanting to understand more of the technical work happening behind the tools I used every day. So I started learning properly. Backend systems, Linux, machine learning, AI security, random scripts, and the one off things that break for a reason I do not understand. I write about that here."
+Title = "Building and Investigating Data, AI and Backend Systems"
+Content = "I work in GTM and AI security. This is where I write about the technical side of that work, along with forecasting, machine learning, backend systems, Linux, Rust, and whatever I’m trying to understand or build next."
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/shivamchhuneja"
