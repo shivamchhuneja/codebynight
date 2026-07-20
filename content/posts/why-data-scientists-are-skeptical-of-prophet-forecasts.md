@@ -22,7 +22,7 @@ It's a different kind of high. A forecast line extending past the data does some
 
 That is more or less why people keep telling you to be careful with Prophet. Or atleast everyone on Reddit does lol.
 
-I do not think the useful version of that advice is "never use Prophet." That sounds like the a rule people make after watching somebody use a tool badly once. The better question is, has Prophet earned the confidence we give it when the plot looks convincing enough?
+I do not think the useful version of that advice is "never use Prophet." That sounds like the a rule people make after watching somebody use a tool badly once. I think the more useful question is if the model actually deserves the confidence the chart gives us.
 
 So I ran a small backtest. Yes yes, I know one backtest is not enough to go heads on with every self proclaimed senior data scientist with 25 years of experience on Reddit but bear with me for this couple hours of fun work that kept me entertained this last weekend.
 
@@ -93,7 +93,7 @@ I do not think this is a special problem with Prophet either. ARIMA can be treat
 
 ## What I would do with a new series now
 
-This little test changed my habits more than it changed my opinion about one library.
+I do not think I came out of this weekend hating prophet. I came out wanting to test forecasting models with a grain of salt in general.
 
 If I needed a forecast for a real decision I would start by asking what the decision is and how far ahead it needs to look. Then I would put Prophet beside a baseline that has a fair chance of being useful, along with at least one classical alternative where it makes sense. Every model should get the same history at each origin, the same forecast horizon, and a setup chosen without peeking at the future scores.
 
