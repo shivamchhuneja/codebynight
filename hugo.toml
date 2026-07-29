@@ -25,7 +25,7 @@ text = " "
 
 [params.homeInfoParams]
 Title = "Building and Investigating Data, AI and Backend Systems"
-Content = "I work in GTM and AI security. This is where I write about the technical side of that work, along with forecasting, machine learning, backend systems, Linux, Rust, and whatever I’m trying to understand or build next."
+Content = "I build and investigate AI-powered GTM systems. What they can access, where they fail, and how to make them useful without creating an unreasonable blast radius. I also write about forecasting and applied data science, especially the gap between models that work in a notebook and systems people can actually trust."
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/shivamchhuneja"
