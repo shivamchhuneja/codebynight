@@ -25,7 +25,7 @@ text = " "
 
 [params.homeInfoParams]
 Title = "Building and Investigating Data, AI and Backend Systems"
-Content = "I build and investigate AI-powered GTM systems. What they can access, where they fail, and how to make them useful without creating an unreasonable blast radius. I also write about forecasting and applied data science, especially the gap between models that work in a notebook and systems people can actually trust."
+Content = "I work in GTM and AI security, building internal systems for competitive intelligence, research and automation. CodeByNight documents the engineering decisions, experiments and failures behind those systems along with some of my experimentation around data science that I picked up while doing my masters in DS & ML"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/shivamchhuneja"
